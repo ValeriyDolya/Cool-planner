@@ -1,0 +1,12 @@
+.header {
+   
+   display: flex;
+   justify-content: space-around;
+   background-color: rgb(230, 230, 255);
+}
+.header>p {
+    font-size:xx-large ;
+    font-weight: bolder;
+    font-style: italic;
+    color: rgb(57, 57, 138);
+}

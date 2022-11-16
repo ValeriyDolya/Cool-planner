@@ -1,0 +1,20 @@
+.enterSection,
+ .enterItem,
+ .enterDeadline,
+ .enterNotification,
+ .enterPriority,
+ .enterFile 
+ {
+    padding: 10px;
+    margin-top: 10px;
+    background-color: rgb(230, 230, 200);
+    display: flex;
+    justify-content: space-between;
+}
+.enterSection input, .enterItem input {
+    width: 88%;
+}
+.addItem {
+    margin-top: 15px;
+    cursor: pointer;
+}

@@ -1,0 +1,6 @@
+.item {
+    background-color: rgb(247, 246, 245);
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+}
