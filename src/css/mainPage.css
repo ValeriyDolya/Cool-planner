@@ -22,8 +22,3 @@ ul {
     display: flex;
     flex-direction:row-reverse ;
 }
-.btnDelete {
-    border: none;
-  
-    cursor: pointer;
-}
