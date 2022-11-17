@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cool-planner/static/css/main.ac3f6b5c.css",
+    "main.js": "/Cool-planner/static/js/main.79ecd216.js",
+    "index.html": "/Cool-planner/index.html",
+    "main.ac3f6b5c.css.map": "/Cool-planner/static/css/main.ac3f6b5c.css.map",
+    "main.79ecd216.js.map": "/Cool-planner/static/js/main.79ecd216.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac3f6b5c.css",
+    "static/js/main.79ecd216.js"
+  ]
+}
